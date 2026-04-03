@@ -1,6 +1,6 @@
 ---
 title: "Mini_Proyecto"
-author: "Mohammed Elbourdany Elagha, Hernán Meléndez Contreras, "
+author: "Mohammed Elbourdany Elagha, Hernán Meléndez Contreras, Lucas Matarredona Sempere,"
 date: "`r Sys.Date()`"
 output: html_document
 ---
